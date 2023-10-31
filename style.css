@@ -1,0 +1,87 @@
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.casa {
+    border: 5px solid black;
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.comodo{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+    background-color: burlywood;
+    color: black;
+}
+
+#quarto01 {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px solid black;
+    float: left;
+    width: 35%;
+    height: 250px;
+}
+
+#quarto02 {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px solid black;
+    float: left;
+    width: 35%;
+    height: 250px;
+}
+
+#banheiro01 {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px solid black;
+    float: left;
+    width: 15%;
+    height: 250px;
+}
+#lavanderia {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px solid black;
+    float: left;
+    width: 15%;
+    height: 250px;
+}
+#cozinha {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px solid black;
+    float: left;
+    width: 45%;
+    height: 250px;
+}
+
+#salaDeEstar{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px solid black;
+    float: left;
+    width: 40%;
+    height: 250px;
+}
+
+#banheiro02 {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px solid black;
+    float: left;
+    width: 15%;
+    height: 250px;
+}
